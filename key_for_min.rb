@@ -14,4 +14,5 @@ def key_for_min_value(name_hash)
     end #if
     end#do
   end #while
+  min_key
 end
