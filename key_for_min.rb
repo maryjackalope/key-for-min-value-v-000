@@ -6,6 +6,6 @@ def key_for_min_value(name_hash)
   min_key ={}
   while i <= name_hash.length 
     name_hash.each do |key, value|
-      
-  
+    end #do
+  end #while
 end
