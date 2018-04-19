@@ -4,5 +4,6 @@
 def key_for_min_value(name_hash)
   i = 10
   min_value ={}
-  while I <= name_hash.length
+  while i <= name_hash.length 
+  
 end
