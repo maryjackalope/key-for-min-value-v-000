@@ -9,7 +9,7 @@ def key_for_min_value(name_hash)
     if value <i
       i = value
       min_key = key
-    elsif number.hash=empty?
+    elsif number_hash.empty?
     
     end#do
   end #while
