@@ -3,8 +3,7 @@
 
 def key_for_min_value(name_hash)
   min_value = nil
-  
-  min_key ={}
+  min_key = nil
   while i <= name_hash.length 
     name_hash.each do |key, value|
     if number_hash.empty?
