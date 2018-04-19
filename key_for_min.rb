@@ -3,5 +3,6 @@
 
 def key_for_min_value(name_hash)
   i = 10
-  min_value
+  min_value ={}
+  
 end
